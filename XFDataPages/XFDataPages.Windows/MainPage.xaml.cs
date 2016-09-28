@@ -14,11 +14,11 @@ using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 
 namespace XFDataPages.Windows {
-    public sealed partial class MainPage {
-        public MainPage() {
-            this.InitializeComponent();
+	public sealed partial class MainPage {
+		public MainPage() {
+			this.InitializeComponent();
 
-            LoadApplication(new XFDataPages.App());
-        }
-    }
+			LoadApplication(new XFDataPages.App());
+		}
+	}
 }

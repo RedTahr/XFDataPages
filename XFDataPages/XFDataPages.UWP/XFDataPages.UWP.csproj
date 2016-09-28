@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{84A9D26C-0468-4C71-9720-6A3A5FCEAE5E}</ProjectGuid>
+    <ProjectGuid>{01E246AF-48C6-4708-8C69-9C157D0B10FB}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>XFDataPages.UWP</RootNamespace>

@@ -1,7 +1,14 @@
 ﻿{
   "dependencies": {
+    "Microsoft.Azure.Mobile.Client": "3.0.1",
+    "Microsoft.Bcl": "1.1.10",
+    "Microsoft.Bcl.Build": "1.0.21",
+    "Microsoft.Net.Http": "2.2.29",
     "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.2",
+    "modernhttpclient": "2.4.2",
+    "Newtonsoft.Json": "9.0.1",
     "Xamarin.Forms": "2.3.2.127",
+    "Xamarin.Forms.Pages": "2.3.0.107",
     "Xamarin.Forms.Pages.Azure": "2.3.0.107",
     "Xamarin.Forms.Theme.Base": "1.0.0.43-pre1",
     "Xamarin.Forms.Theme.Dark": "1.0.0.43-pre1",

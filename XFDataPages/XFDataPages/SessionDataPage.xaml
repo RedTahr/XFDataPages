@@ -7,10 +7,8 @@
 
   <p:ListDataPage.DataSource>
     <p:JsonDataSource Source="http://demo3143189.mockable.io/sessions" />
-  </p:ListDataPage.DataSource>
-
-  <!-- CUSTOM LISTITEM
-    <p:ListDataPage.DefaultItemTemplate>
+   <!--CUSTOM LISTITEM-->
+    <!--<p:ListDataPage.DefaultItemTemplate>
 	    <DataTemplate>
 	        <ViewCell>
 	            <p:ListItemControl
@@ -23,8 +21,10 @@
 	            </p:ListItemControl>
 	        </ViewCell>
 	    </DataTemplate>
-	</p:ListDataPage.DefaultItemTemplate>
-	-->
+	</p:ListDataPage.DefaultItemTemplate>-->
+
+  </p:ListDataPage.DataSource>
+
 
   <!--// https://blog.xamarin.com/scaffolding-xamarin-forms-pages-with-datapages/
   // Azure Easy Tables
