@@ -10,7 +10,8 @@ namespace XFDataPages {
         public App() {
             InitializeComponent();
 
-            MainPage = new XFDataPages.MainPage();
+            //MainPage = new XFDataPages.MainPage();
+            MainPage = new NavigationPage(new SessionDataPage());
         }
 
         protected override void OnStart() {

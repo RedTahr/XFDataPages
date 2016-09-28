@@ -22,6 +22,11 @@ namespace XFDataPages.iOS {
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());
 
+            // may no longer be needed
+            var x = typeof(Xamarin.Forms.Themes.DarkThemeResources);
+            x = typeof(Xamarin.Forms.Themes.LightThemeResources);
+            x = typeof(Xamarin.Forms.Themes.iOS.UnderlineEffect);
+
             return base.FinishedLaunching(app, options);
         }
     }
